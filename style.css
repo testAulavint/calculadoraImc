@@ -45,7 +45,6 @@ button{
     
 }
 input[type="number"]{
-    -moz-appearance: textfield;
     border: none;
     border-bottom: 1px solid ;
     border-right: 1px solid ;
